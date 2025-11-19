@@ -136,16 +136,16 @@ __Optional but cool:__
 
 ### Data Structures and Algorithms
 - Practicals
-  - [ ] SeanPrashad 175
-  - [ ] Blind 75
-  - [ ] Algomaster 300
+  - [ ] [SeanPrashad 175](https://seanprashad.com/leetcode-patterns/)
+  - [ ] [Blind 75](https://leetcode.com/problem-list/oizxjoit/)
+  - [ ] [Algomaster 300](https://algomaster.io/practice/dsa-patterns)
 - Theoretical
-  - [ ] Dynamic Programming - FreeCodeCamp
-  - [ ] Binary Tree - FreeCodeCamp
-  - [ ] Graph Based Algorithms - FreeCodeCamp
-  - [ ] Back Tracking - FreeCodeCamp
-  - [ ] Greedy - FreeCodeCamp
-  - [ ] Common Coding Problems - FreeCodeCamp
+  - [ ] Dynamic Programming - @[FreeCodeCamp](https://youtu.be/oBt53YbR9Kk?si=25YYoVAPAMABY0KU)
+  - [ ] Binary Tree - @[FreeCodeCamp](https://youtu.be/fAAZixBzIAI?si=rjzsNq-a1i7WloR3)
+  - [ ] Graph Based Algorithms - @[FreeCodeCamp](https://youtu.be/tWVWeAqZ0WU?si=3r3FekxZBe-3yZDz)
+  - [ ] Back Tracking - @[FreeCodeCamp](https://youtu.be/A80YzvNwqXA?si=bdhWXClEzcSVnTsC)
+  - [ ] Greedy - @[FreeCodeCamp](https://youtu.be/bC7o8P_Ste4?si=qSLzxo1rj3U5VLBd)
+  - [ ] Common Coding Problems - @[FreeCodeCamp](https://youtu.be/Peq4GCPNC5c?si=aqOGI0s6_TVQ0Z9d)
  
 ### Quantum Computing
 - [ ] `tbd.`
