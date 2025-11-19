@@ -52,7 +52,7 @@ __Optional but cool:__
     - [ ] [Reinforcement Learning From Human Feedback](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback)
     - [ ] [Advanced Retrieval For Ai](https://www.deeplearning.ai/short-courses/advanced-retrieval-for-ai)
     - [ ] [Build Llm Apps With Langchain Js](https://www.deeplearning.ai/short-courses/build-llm-apps-with-langchain-js)
-    - [ ] [Llmops](https://www.deeplearning.ai/short-courses/llmops)
+    - [ ] [LLMOps](https://www.deeplearning.ai/short-courses/llmops)
     - [ ] [Automated Testing Llmops](https://www.deeplearning.ai/short-courses/automated-testing-llmops)
     - [ ] [Building Applications Vector Databases](https://www.deeplearning.ai/short-courses/building-applications-vector-databases)
     - [ ] [Serverless Llm Apps Amazon Bedrock](https://www.deeplearning.ai/short-courses/serverless-llm-apps-amazon-bedrock)
