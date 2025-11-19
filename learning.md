@@ -132,7 +132,7 @@ __Optional but cool:__
     - [ ] `tbd.`
 
 ### AI Advancements and Research
-- KUWT Agent - HuggingFace Papers
+- HuggingFace Papers - @[KUWT Agent](https://github.com/pavankumarbalijepalli/kuwt-agent)
 
 ### Data Structures and Algorithms
 - Practicals
